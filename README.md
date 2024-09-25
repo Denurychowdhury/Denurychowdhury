@@ -1,3 +1,4 @@
+![IMG-20231212-WA0071](https://github.com/user-attachments/assets/c67785ae-5745-46d2-b7cb-e260d921622e)
 - 👋 Hi, I’m @Denurychowdhury
 - 👀 I’m interested in ...web development
 - 🌱 I’m currently learning ...javascript

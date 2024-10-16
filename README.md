@@ -2,7 +2,7 @@
 
 ### Hi there 👋, Denury chowdhury
 #### Web developer
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+Frontend developer with a passion for creating responsive and user-friendly web applications. Always exploring new technologies to enhance user experience and bring ideas to life!
 
 Skills:  REACT / JS / HTML / CSS
 - 🌱 I’m currently learning Reactjs 

@@ -1,4 +1,5 @@
-![Blue and White Modern Graphic Designer Email Header](https://github.com/user-attachments/assets/884bc4f0-70d0-414c-9a8d-19e0508e8e1d)
+![main-image](https://github.com/user-attachments/assets/3ab17cb1-e5b9-42b0-8cae-b6e941b1fa78)
+
 ### Hi there 👋, Denury chowdhury
 #### Web developer
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.

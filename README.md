@@ -8,9 +8,7 @@ Skills:  REACT / JS / HTML / CSS
 - 💬 Ask me about HTML, CSS, JavaScript, React.js 
 - 📫 How to reach me: denuryc@gmail.com 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Denurychowdhury)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Denurychowdhury&show_icons=true&count_private=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Denurychowdhury)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Denurychowdhury&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Denurychowdhury)  
 

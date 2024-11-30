@@ -4,8 +4,8 @@
 #### Web developer
 Frontend developer with a passion for creating responsive and user-friendly web applications. Always exploring new technologies to enhance user experience and bring ideas to life!
 
-Skills:  REACT / JS / HTML / CSS
-- 🌱 I’m currently learning Reactjs 
+Skills: / nodejs / expressjs /REACT / JS / HTML / CSS
+- 🌱 I’m currently learning MonogDb 
 - 💬 Ask me about HTML, CSS, JavaScript, React.js 
 - 📫 How to reach me: denuryc@gmail.com 
 

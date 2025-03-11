@@ -12,7 +12,7 @@ I specialize in crafting **responsive**, **user-friendly**, and **interactive** 
 - 💻 **Languages & Frameworks:** JavaScript (ES6+), React.js, Node.js, Express.js  
 - 🎨 **Frontend:** HTML5, CSS3, Tailwind CSS, Bootstrap  
 - 🛠️ **Tools & Technologies:** Git, GitHub, VS Code, Firebase  
-- 🛢️ **Databases:** MongoDB (Currently Learning)  
+- 🛢️ **Databases:** MongoDB 
 
 ---
 

@@ -1,21 +1,48 @@
-![main-image](https://github.com/user-attachments/assets/3ab17cb1-e5b9-42b0-8cae-b6e941b1fa78)
+![Header](https://github.com/user-attachments/assets/3ab17cb1-e5b9-42b0-8cae-b6e941b1fa78)
 
-### Hi there 👋, Denury chowdhury
-#### Web developer
-Frontend developer with a passion for creating responsive and user-friendly web applications. Always exploring new technologies to enhance user experience and bring ideas to life!
+<h1 align="center">Hi there 👋, I'm Denury Chowdhury</h1>
+<h3 align="center">A Passionate Frontend Developer 🚀</h3>
 
-Skills: / nodejs / expressjs /REACT / JS / HTML / CSS
-- 🌱 I’m currently learning MonogDb 
-- 💬 Ask me about HTML, CSS, JavaScript, React.js 
-- 📫 How to reach me: denuryc@gmail.com 
+🌟 **Bringing Ideas to Life with Code!**  
+I specialize in crafting **responsive**, **user-friendly**, and **interactive** web applications. I love learning new technologies and pushing the boundaries of frontend development.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Denurychowdhury)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Denurychowdhury&show_icons=true&count_private=true)  
+---
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Denurychowdhury)  
+### 🚀 Tech Stack  
+- 💻 **Languages & Frameworks:** JavaScript (ES6+), React.js, Node.js, Express.js  
+- 🎨 **Frontend:** HTML5, CSS3, Tailwind CSS, Bootstrap  
+- 🛠️ **Tools & Technologies:** Git, GitHub, VS Code, Firebase  
+- 🛢️ **Databases:** MongoDB (Currently Learning)  
 
+---
 
-<!---
-Denurychowdhury/Denurychowdhury is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📌 About Me  
+- 🌱 I’m currently learning **MongoDB** to expand my full-stack skills.  
+- 💬 Ask me anything about **HTML, CSS, JavaScript, React.js**.  
+- 📫 How to reach me: **denuryc@gmail.com**  
+- ⚡ Fun Fact: I believe coffee ☕ & code 💻 go hand in hand!
 
+---
+
+### 📊 GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Denurychowdhury&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Denurychowdhury&theme=radical" alt="GitHub Streak" height="160px"/>
+</div>
+
+---
+
+### 🔥 Top Languages  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denurychowdhury&layout=compact&theme=radical" alt="Top Languages" height="160px"/>
+</div>
+
+---
+
+### 🎯 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/denurychowdhury/)  
+[![Email](https://img.shields.io/badge/Email-denuryc@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:denuryc@gmail.com)  
+
+---
+
+⚡ *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*  

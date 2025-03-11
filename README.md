@@ -27,7 +27,6 @@ I specialize in crafting **responsive**, **user-friendly**, and **interactive** 
 ### 📊 GitHub Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Denurychowdhury&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Denurychowdhury&theme=radical" alt="GitHub Streak" height="160px"/>
 </div>
 
 ---

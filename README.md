@@ -39,7 +39,7 @@ I specialize in crafting **responsive**, **user-friendly**, and **interactive** 
 ---
 
 ### 🎯 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/denurychowdhury/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/denury-chowdhury-796094243/)  
 [![Email](https://img.shields.io/badge/Email-denuryc@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:denuryc@gmail.com)  
 
 ---
